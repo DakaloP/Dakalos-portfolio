@@ -1,7 +1,11 @@
 .home {
   padding: 20px;
   max-width: 600px;
-  margin: auto;}
+  margin: auto;
+  text-align: center;
+
+}
+  
   
 .footer {
   position: fixed;
