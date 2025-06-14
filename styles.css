@@ -14,17 +14,4 @@ body {
   color:#f1f1f1;
 }
 
-.footer .social-links {
-  margin-top: 10px;
-}
 
-.footer .social-links a {
-  color: #f1f1f1;
-  margin: 0 10px;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-.footer .social-links a:hover {
-  color: #0077cc;
-}
