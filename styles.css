@@ -15,3 +15,26 @@ body {
 }
 
 
+.nav {
+    background-color: #333;
+    padding: 1em;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+     margin: 0; 
+     padding: 0; 
+  }
+  
+  ul li a {
+    color: white;
+   text-decoration: none;
+  }
+  
+  ul li a:hover {
+    text-decoration: underline;
+  }
+
