@@ -1,10 +1,7 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
-
-.footer {
-  background-color:    #333;
+.home {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
   text-align: center;
   padding: 20px 10px;
   position: relative;
@@ -37,4 +34,5 @@ body {
   ul li a:hover {
     text-decoration: underline;
   }
+
 
