@@ -1,24 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
 
-.navbar{
-gap:20rem;
-background-color: rgb(209, 142, 168);
-padding: 6px;
-border-radius: 20px;
+.footer {
+  background-color:    #333;
+  text-align: center;
+  padding: 20px 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px;
+  color:#f1f1f1;
 }
-.home{
-gap:20rem;
-list-style-type: none;
-margin: 0;
-padding: 30px;
-display: flex;
 
+.footer .social-links {
+  margin-top: 10px;
 }
-.nav li{
-    gap: 20rem;
-    margin: 0;
+
+.footer .social-links a {
+  color: #f1f1f1;
+  margin: 0 10px;
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
- .nav a{
-    gap: 20rem;
-    display: block;
-    padding: 14px 20px;
- }
+
+.footer .social-links a:hover {
+  color: #0077cc;
+}
