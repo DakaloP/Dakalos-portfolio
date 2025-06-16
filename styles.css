@@ -1,76 +1,8 @@
-.home {
-  padding: 20px;
-  max-width: 600px;
-  text-align: center;
-  margin: auto;
 
-}
-  .about{
-    padding: 20px;
-    max-width: 600px;
-    text-align: center;
-    margin: auto;
-
-  }
-
-  .about-me{
-    text-align: left;
-  }
+.images {
+    display: flex;       
+    gap: 10px;          
+    height: 300px;
+    width: 300px;
   
-.footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background-color: #333;
-  color: #f1f1f1;
-  text-align: center;
-  padding: 20px 10px;
-  font-size: 14px;
- 
-}
-
-
-.nav {
-    background-color: #333;
-    padding: 1em;
-    list-style: none;
-    display: flex;
-    gap: 2rem;
-    justify-content: center;
-    margin-top: 0%;
-    
   }
-  
-
-   li a {
-    color: white;
-   text-decoration: none;
-  }
-  
-  ul li a:hover {
-    text-decoration: underline;
-  }
-
-
-
-.contact {
-  text-align: center;
-  padding: 30px;
-}
-
-.links a {
-  display: inline-block;
-  margin: 10px;
-  padding: 10px 30px;
-  text-decoration: none;
-  background-color: #8900d8;
-  border-radius: 5px;
-  color: white;
-  font-weight: bold;
-  
-}
-
-.links a:hover {
-  background-color: #f758d2;
-}
